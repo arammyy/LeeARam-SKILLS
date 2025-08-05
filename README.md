@@ -28,5 +28,4 @@
 ![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?&style=for-the-badge&logo=FileZilla&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white)
